@@ -2,7 +2,7 @@
     "name": "lichen/demo",
     "description": "this is a demo",
     "type": "license",
-    "license": "ap",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "lichen",
