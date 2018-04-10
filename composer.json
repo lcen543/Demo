@@ -9,7 +9,6 @@
             "email": "lcen543@163.com"
         }
     ],
-    "minimum-stability": "stable",
     "version": "v1.0",
     "require": {
         "php": ">=5.3.0"
