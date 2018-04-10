@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Lichen\\SRC\\": "src/",
-            "Lichen\\TEST\\": "tests/",
+            "Lichen\\TEST\\": "tests/"
         }
     }   
 }
