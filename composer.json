@@ -15,8 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Lichen\\SRC\\": "src/",
-            "Lichen\\TEST\\": "tests/"
+            "Demo\\src\\": "src/",
+            "Demo\\test\\": "test/"
         }
     }   
 }

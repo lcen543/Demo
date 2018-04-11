@@ -9,9 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Lichen\SRC;
+namespace Demo\test;
 
-class Httprequest
+class Lt
 {
-    
+    private static $resource;
+
+    public function __construct()
+    {
+
+    }
 }

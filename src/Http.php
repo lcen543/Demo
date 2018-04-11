@@ -9,15 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Lichen\TEST;
+namespace Demo\src;
 
-
-class Lt
+class Http
 {
-    private static $resource;
-
-    public function __construct()
-    {
-
-    }
+    
 }
